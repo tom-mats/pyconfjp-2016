@@ -30,3 +30,7 @@ https://github.com/masamitsu-murase/pausable_unittest
 * BIOSの新規格
 * EFI ShellというDOSライクなシェルが開く
   * Pythonは移植されている
+
+## FAQ
+
+* Rubyだとできないらしい
